@@ -2,6 +2,8 @@
 
 ![Impact of Recession on Automobile Sales](pictures/car_on_money.png)
 
+## Introduction
+
 In this analysis, we will try to understand the historical trends in automobile sales during recession periods.
 - Recession period 1: year 1980
 - Recession period 2: year 1981 to 1982
@@ -10,10 +12,15 @@ In this analysis, we will try to understand the historical trends in automobile 
 - Recession period 5: year-end 2007 to mid-2009
 - Recession period 6: year 2020 - Feb to April (Covid-19 Impact)
 
+### Questions to Explore
+1. How do automobile sales trend over time during recession and non-recession periods?
+2. What is the distribution of automobile sales during recession and non-recession periods?
+3. Is there a significant difference in automobile sales between recession and non-recession periods?
+4. How do automobile sales vary across different regions during recession periods?
+5. How does the recession impact sales of different vehicle types?
+
 ### Data Description
-
 The dataset we will be using contains *historical_automobile_sales* data representing automobile sales and related variables during the recession and non-recession periods.
-
 The dataset includes the following variables:
 
 | Field                   | Description                                                                                     |
@@ -33,13 +40,6 @@ The dataset includes the following variables:
 | **Year**                | Year of the observation extracted from Date.                                                    |
 
 By examining various factors mentioned above from the dataset, we aim to gain insights into how recessions impacted automobile sales for this company.
-
-### Questions to Explore
-1. How do automobile sales trend over time during recession and non-recession periods?
-2. What is the distribution of automobile sales during recession and non-recession periods?
-3. Is there a significant difference in automobile sales between recession and non-recession periods?
-4. How do automobile sales vary across different regions during recession periods?
-5. How does the recession impact sales of different vehicle types?
 
 ## How do automobile sales trend over time during recession and non-recession periods?
 
